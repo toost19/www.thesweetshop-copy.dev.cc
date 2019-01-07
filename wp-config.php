@@ -26,7 +26,7 @@ define('DB_NAME', 'thesweetDBem2k8');
 define('DB_USER', 'thesweetDBem2k8');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'NKb0hyF6EW');
+
 
 /** MySQL hostname */
 define('DB_HOST', '127.0.0.1');
